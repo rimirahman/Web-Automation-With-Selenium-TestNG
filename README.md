@@ -35,3 +35,5 @@ https://opensource-demo.orangehrmlive.com/
 
 ##Video recording of the automation
 
+https://user-images.githubusercontent.com/122162468/221647290-7b004630-6f43-450b-adae-f1e3eb68487c.mp4
+
