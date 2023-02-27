@@ -5,14 +5,14 @@
 - clone the project
 - execute with intellij
 
+## Tool used in this Project
+- Selenium
 
-##Tool used in this Project
--Selenium
+## Framework used in this Project
+- TestNG
 
-##Framework used in this Project
--TestNG
+## Project Scenarios
 
-##Project Scenarios
 
 1. Login to orange hrm demo site
 https://opensource-demo.orangehrmlive.com/
